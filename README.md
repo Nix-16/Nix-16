@@ -12,13 +12,10 @@
 
 ### ⚙️ Technologies & Tools  
 
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=flat)
-![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white&style=flat)  
-![CMake](https://img.shields.io/badge/-CMake-064F8C?logo=cmake&logoColor=white&style=flat)
-![Boost](https://img.shields.io/badge/-Boost-00599C?logo=boost&logoColor=white&style=flat)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+| [![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)](https://code.visualstudio.com/) | [![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=flat)](https://visualstudio.microsoft.com/) | [![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white&style=flat)](https://www.qt.io/) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [![CMake](https://img.shields.io/badge/-CMake-064F8C?logo=cmake&logoColor=white&style=flat)](https://cmake.org/) | [![Boost](https://img.shields.io/badge/-Boost-00599C?logo=boost&logoColor=white&style=flat)](https://www.boost.org/) | [![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)](https://www.linux.org/) |
+| [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/) | [![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)](https://www.docker.com/) | [![GDB](https://img.shields.io/badge/-GDB-FD7C20?style=flat)](https://www.gnu.org/software/gdb/) |
 
 ---
 
