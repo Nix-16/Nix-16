@@ -26,8 +26,16 @@
 ---
 
 ### 🚀 Projects  
-- 🔗 [**Cool Project Name**](https://github.com/YourRepo)  
-  > 🚀 A brief description of your project here  
 
-- 🔗 [**Another Cool Project**](https://github.com/YourRepo)  
-  > 🚀 A short description here  
+#### 🔗 [`WebServer`](https://github.com/Nix-16/WebServer)  
+
+> 🚀 我的 **WebServer** 项目是一个基于 C++ 的高性能 Web 服务器，采用 **主从分离设计**，结合 `epoll` 和 **线程池技术**，极大地提升了服务器的吞吐能力。  
+> - **架构**：一个主 Reactor 和四个子 Reactor。主 Reactor 负责监听客户端连接请求 (`accept`)，并将新连接分发给子 Reactor 处理。  
+> - **性能**：经过 `webbench` 压力测试，可实现 **6000+ QPS** 的处理能力。
+
+---
+
+#### 🔗 [**Another Cool Project**](https://github.com/YourRepo)  
+
+> 🚀 A short description here.
+
